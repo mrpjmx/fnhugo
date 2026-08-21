@@ -2,7 +2,7 @@
 # PaperMod 主题配置
 # Author: 庞老师
 
-baseURL = "https://mrpjmx.github.io/fnhugo/"
+baseURL = "https://fn.028317.xyz/"
 title = "fnhugo"
 copyright = "© 2026 庞老师 / fnhugo"
 theme = "PaperMod"
