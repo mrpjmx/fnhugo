@@ -7,3 +7,8 @@ public/
 cache/filecache/_gen/
 .claude/
 dump.txt
+# Hugo build output
+/public/
+/resources/
+*.log
+.hugo_build.lock
