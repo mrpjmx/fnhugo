@@ -4,9 +4,9 @@ date: 2026-08-21T21:45:00+08:00
 draft: false
 ---
 
-# 关于 fnhugo
+# 关于 MR.PANG
 
-**fnhugo** = **f**ly**n**as **Hugo** = 飞牛系统上的 Hugo 站点
+**MR.PANG** —— 庞老师的**自留地**
 
 ## 站长
 
@@ -14,16 +14,18 @@ draft: false
 
 ## 站点用途
 
-- 记录飞牛系统(Hugo 站点)折腾过程
-- 分享 PaperMod 主题使用经验
-- 个人学习 / 折腾笔记
+- 飞牛系统(Hugo 站点)折腾笔记
+- 摩旅老登抖音号运营心得
+- 嘉祥外国语信息化工作
+- 偶尔的生活随笔
 
 ## 技术栈
 
 - 飞牛 fnOS(Debian 12 bookworm)
-- Hugo v0.146.0+
+- Hugo v0.165.0 extended
 - PaperMod v8.0
-- GitHub Pages 托管
+- Cloudflare Pages
+- 域名 fn.028317.xyz
 
 ## 联系方式
 
